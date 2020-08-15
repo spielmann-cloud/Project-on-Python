@@ -1,6 +1,7 @@
 
 """
 Name of picture: Grave Houses
+@author: umurzakov Sarvar
 
 """
 
